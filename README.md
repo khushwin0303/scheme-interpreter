@@ -12,5 +12,5 @@ This interpreter allows the user to do these scheme commands:
 * cond
 * assoc
 
-It also allows the for user-defined functions.
+It also allows the for user-defined functions.  Instructions to run the program are in the Makefile.
 
